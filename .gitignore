@@ -1,0 +1,6 @@
+
+*.bat
+*.db
+phaser.js
+phaser.min.js
+test.*
